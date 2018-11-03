@@ -1,0 +1,4 @@
+keras
+numpy
+glob3
+opencv-python
