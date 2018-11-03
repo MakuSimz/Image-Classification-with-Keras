@@ -1,5 +1,5 @@
 # Image-Classification-with-Keras
-In this repository, you will find various deep learning python scripts
+In this repository, you will find a deep learning python project to classify 3 classes of images
 ## Information about projects
 This projects is about classifying 3 classes of images which are dogs, cats and birds, in each training folder there about 12500 training samples and about 415 validation images
 ## How to use
